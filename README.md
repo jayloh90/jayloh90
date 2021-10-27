@@ -9,3 +9,4 @@ jayloh90/jayloh90 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 Day 1 - Refreshed HTML & CSS & Bootstrap
+Day 2 - Finished Javascript & DOM Manipulation & Did a Todo List Exercise
