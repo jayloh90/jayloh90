@@ -14,3 +14,5 @@ You can click the Preview link to take a look at your changes.
 Day 1 - Refreshed HTML & CSS & Bootstrap
 
 Day 2 - Finished Javascript & DOM Manipulation & Did a Todo List Exercise
+
+Day 3 - Built a Simple Background Changer - Tried my hand at React for the first time, concluded that I need to brush up on more advanced Javascript Syntax because I was getting lost in the code.
